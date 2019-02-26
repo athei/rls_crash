@@ -1,0 +1,9 @@
+[package]
+name = "rls_crash"
+version = "0.1.0"
+authors = ["Alexander Theißen <alex.theissen@me.com>"]
+edition = "2018"
+
+[dependencies]
+num-traits = "0.2.6"
+num-derive = "0.2.4"
